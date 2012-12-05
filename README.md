@@ -1,6 +1,6 @@
 # The MiniMagick repo has moved!
 
-The new location is [https://github.com/minimagick/minimagick](https://github.com/minimagic/minimagick)
+The new location is [https://github.com/minimagick/minimagick](https://github.com/minimagick/minimagick)
 
 If you have an existing checkout of minimagick, use this command.
 
